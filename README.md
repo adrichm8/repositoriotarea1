@@ -23,7 +23,7 @@ Para saber cantidade de memoria no disco duro ocupaches, utiliza docker system d
 Para calcular cantidade de RAM que ocupan os contenedores, hai que crear varios contenedores e usar docker stats.
 
 9-Cómo fixeches para clonar o repositorio? 
-Para clonar o repositorio, usa git clone <[](https://github.com/adrichm8/repositoriotarea1/tree/main)>.
+Para clonar o repositorio, usa git clone <[]((https://github.com/adrichm8/repositoriotarea1))>.
 
 10-Cómo engades o arquivo readme2.md? 
 Para engadir o arquivo readme2.md, usa git add readme2.md.
